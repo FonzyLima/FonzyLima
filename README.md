@@ -1,10 +1,9 @@
-### Hi there I am Alfonso 👋
-## Find Me
+## Hi there I am Alfonso 👋
+### Find Me
 
 - [LinkedIn](https://www.linkedin.com/in/alfonso-lima/)
-- [Twitter](https://twitter.com/your-username)
-- [Website/Blog](https://your-website-url.com)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FonzyLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+- [Instagram](https://instagram.com/fonzylima)
+<!--![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FonzyLima&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 <!--
 **FonzyLima/FonzyLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FonzyLima&layout=compact)](https://github.com/FonzyLima/github-readme-stats)
+--> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FonzyLima&layout=compact)](https://github.com/FonzyLima/github-readme-stats) -->
